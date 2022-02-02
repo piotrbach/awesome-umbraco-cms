@@ -1,5 +1,5 @@
 # Awesome Umbraco CMS!
-A collection of best Umbraco CMS resources
+A collection of best Umbraco CMS resources.
 
 Contributions are always welcome! We accept proprietary and commercial software too.
 
